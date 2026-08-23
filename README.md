@@ -1,8 +1,8 @@
 # CloudOps Platform
 
-[![Backend CI/CD](https://github.com/panu27/cloudops/actions/workflows/backend-pipeline.yml/badge.svg)](https://github.com/[USERNAME]/cloudops/actions/workflows/backend-pipeline.yml)
-[![Frontend CI/CD](https://github.com/panu27/cloudops/actions/workflows/frontend-pipeline.yml/badge.svg)](https://github.com/[USERNAME]/cloudops/actions/workflows/frontend-pipeline.yml)
-[![Infrastructure](https://github.com/panu27/cloudops/actions/workflows/infrastructure-pipeline.yml/badge.svg)](https://github.com/[USERNAME]/cloudops/actions/workflows/infrastructure-pipeline.yml)
+[![Backend CI/CD](https://github.com/panu27/cloudops/actions/workflows/backend-pipeline.yml/badge.svg)](https://github.com/panu27/cloudops/actions/workflows/backend-pipeline.yml)
+[![Frontend CI/CD](https://github.com/panu27/cloudops/actions/workflows/frontend-pipeline.yml/badge.svg)](https://github.com/panu27/cloudops/actions/workflows/frontend-pipeline.yml)
+[![Infrastructure](https://github.com/panu27/cloudops/actions/workflows/infrastructure-pipeline.yml/badge.svg)](https://github.com/panu27/cloudops/actions/workflows/infrastructure-pipeline.yml)
 
 A production-grade DevOps automation platform deployed on Azure Kubernetes Service (AKS), demonstrating end-to-end infrastructure provisioning, CI/CD automation, and observability.
 
@@ -86,7 +86,7 @@ cloudops-platform/
 
 ```bash
 # Clone the repository
-git clone https://github.com/[USERNAME]/cloudops.git
+git clone https://github.com/panu27/cloudops.git
 cd cloudops-platform
 
 # Start all services
